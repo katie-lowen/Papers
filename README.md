@@ -6,4 +6,4 @@ Augmented Reality Paper: Written for my Mixed Reality class, exploring the poten
 
 Virtual Reality Paper: Written for my Mixed Reality class, exploring the potential application of VR for educational purposes. 
 
-KD Trees and TriesL: Written for my Data Structures in C class, exploring the applications and construction of KD trees and Trie structures. 
+KD Trees and Tries: Written for my Data Structures in C class, exploring the applications and construction of KD trees and Trie structures. 
